@@ -1,0 +1,9 @@
+distlib==0.3.8
+filelock==3.15.4
+numpy==2.0.0
+opencv-python==4.10.0.84
+pillow @ file:///C:/b/abs_95ls_qh4c2/croot/pillow_1714398870615/work
+platformdirs==4.2.2
+setuptools==69.5.1
+virtualenv==20.26.3
+wheel==0.43.0
